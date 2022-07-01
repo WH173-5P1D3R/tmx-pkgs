@@ -13,6 +13,7 @@ echo -e '\e[1;92m
 \e[0m'
 printf "\n"
 printf "               \e[101m\e[1;77m  >>  Script By WH173 5P1D3R << \e[0m\n"
+printf "               \e[101m\e[1;77m  >>   wa.me/+917736807522   << \e[0m\n"
 printf "\n"
 printf " \e[1;93m <<----[THANKS FOR USING THIS SCRIPT]---->>\e[0m \n"
 
