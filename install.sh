@@ -1,5 +1,6 @@
 #!/data/data/com.termux/files/usr/bash
 
+clear
 echo -e '\e[1;92m
 
     
